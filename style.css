@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    padding: 10px;
+    border: 5px double #9191f3;
+}
+header a {
+    background-color: #9191f3;
+    color: azure;
+}
+nav {
+    background-color:  #9191f3 ;
+    color:white ;
+    font-size: 15px;
+}
+nav a{
+    color:white;
+    padding: 5px;
+    margin: 10px;
+}
+h1{
+   color:#9191f3 ; 
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    padding: 20px;
+    background-color:#9191f3 ;
+}
+footer p {
+    padding: 3px;
+    background-color:white ;
+}
+.product{
+    color: black;
+    background-color:#9191f3 ;
+}
+#discount{
+    color:#9191f3 ;
+}
+.party{
+    border: 2px solid #9191f3;
+}
+
